@@ -1,0 +1,11 @@
+index,Age,DailyRate,DistanceFromHome,Education,EnvironmentSatisfaction,HourlyRate,JobInvolvement,JobLevel,JobSatisfaction,MonthlyIncome,MonthlyRate,NumCompaniesWorked,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany
+2,37,1373,2,2,4,92,2,1,3,2090,2396,6,15,3,2,0,7,3,3,0
+3,33,1392,3,4,4,56,3,1,3,2909,23159,1,11,3,3,0,8,3,3,8
+1,49,279,8,1,3,61,2,2,2,5130,24907,1,23,4,4,1,10,3,3,10
+100,37,807,6,4,3,63,3,1,1,2073,23648,4,22,4,4,0,7,3,3,3
+105,59,1420,2,4,3,32,2,5,4,18844,21922,9,21,4,4,1,30,3,3,3
+200,27,472,1,1,3,60,2,2,1,4298,9679,5,19,3,3,1,6,1,3,2
+478,25,622,13,1,2,40,3,1,3,2096,26376,1,11,3,3,0,7,1,3,7
+988,41,1200,22,3,4,75,3,2,4,5467,13953,3,14,3,1,2,12,4,2,6
+1001,37,1462,11,3,1,94,3,1,3,3629,19106,4,18,3,1,0,8,6,3,3
+702,30,231,8,2,3,62,3,3,3,7264,9977,5,11,3,1,1,10,2,4,8
